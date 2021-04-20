@@ -1,0 +1,122 @@
+body
+{
+    background-image: linear_gradient(grey,white,grey);
+}
+h1
+{
+    color: blue;
+}
+.headd
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.cara
+
+{
+    width: 1000px;
+    height: 550px;    
+}
+strong
+{
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card-block
+{
+    margin-top: 10%;
+}
+.ll
+{
+    width: 120px;
+    height: 120px;
+    text-align: center;
+}
+.ctext
+{
+    position: relative;
+    top: -125px;
+    left: 50%;
+}
+.ic
+{
+    width: 200%;
+    
+}
+.footer
+{
+  margin-top: 50px;
+  background: black;
+  color: white;
+  background-size: cover;
+}
+.footer h1
+{
+  font-size: 15px;
+  margin: 25px;
+}
+.footer p
+{
+  font-size: 12px;
+}
+.footer-image img
+{
+  width: 150px;
+}
+.footer .row .fa
+{
+  padding-right: 20px;
+  font-size: 15px;
+}
+header
+{
+    background-color: black;
+}
+header .fa{
+    font-size: 15px;
+}
+body
+{
+    background-image:linear-gradient(to left, rgb(39, 190, 236),white,rgb(39, 190, 236));
+}
+.card-header
+{
+    background-image: linear-gradient(to bottom,rgb(39, 190, 236));
+}
+.card-block{
+    color: white;
+}
+#book
+{
+    background-color: rgb(183, 238, 183);
+    margin-top: 4%;
+}
+#bookimg
+{
+    margin-top: 4%;
+    width: 280px;
+    height: 170px;
+}
+.ctext1
+{
+    position: relative;
+    top: -125px;
+    left: 40%; 
+}
+#bestpics
+{
+    top: -125px;
+}
+/*register CSS*/
+#login
+{
+    background-image: url(i1.jpg);
+    background-position: center;
+    background-size: cover;
+
+}
+#regi
+{
+    background-image: url(fix.jpg);
+    background-position: center;
+    background-size: cover;   
+}
